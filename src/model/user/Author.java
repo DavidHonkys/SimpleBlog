@@ -18,7 +18,7 @@ public class Author extends RegisteredUser {
     
     /*
      * Ahoooooj! Tohleto je muj prispevek :-)
-     * 
+     * verze 1
      * 
      * 
      * 

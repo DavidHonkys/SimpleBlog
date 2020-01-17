@@ -15,4 +15,12 @@ public class Author extends RegisteredUser {
     public void setCountOfArticles(int countOfArticles) {
         this.countOfArticles = countOfArticles;
     }
+    
+    /*
+     * 
+     * 
+     * 
+     * 
+     * 
+     */
 }

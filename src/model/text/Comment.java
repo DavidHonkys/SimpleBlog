@@ -9,7 +9,9 @@ public class Comment extends Message {
         this.articleID = articleID;
     }
     
+    public static String zaskodnickaPromenna = "CHA-CHA";
+  
     public String getArticleID() {
-		return articleID;
-	}
+	  	return articleID;
+	  }
 }

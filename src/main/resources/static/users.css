@@ -1,6 +1,12 @@
 table.user-list {
     border-collapse: collapse;
 }
-table.user-list, table.user-list th, table.user-list td {
+table.user-list, 
+table.user-list th, 
+table.user-list td {
     border: 1px solid black;
 }
+/* 
+plne kvaifikovana cesta k elementu:
+html body form table tr td input[name="firstname"]
+*/
